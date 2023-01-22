@@ -1,0 +1,115 @@
+.header{
+    display: flex;
+	justify-content: center; 
+    background: #F6F8F9;
+    position: fixed;
+    width: 1440px;
+    height: 50px;
+    top: 0px;
+    left: 0px;
+}
+.navi{
+    display: flex;
+    align-items: center;
+	width: 1400px;
+}
+.navul{
+    display: flex;
+    justify-content: space-between;
+    width: 350px;
+    margin-left: 90px;
+}
+.logo{
+    color: red;
+}
+.hometxt{
+    color: #343638;
+    font-size: 16px;
+    font-family: 'Sofia Sans Condensed';
+}
+.topbox{
+    background: #F6F8F9;
+    width: 1160px;
+    height: 410px;
+    margin: 0 auto;
+    margin-top: 40px;
+    margin-top: 100px;
+    top: 170px;
+}
+.blocks{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+.topbox-txt{
+    color: #202124;
+    font-size: 24px;
+    font-family: 'Sofia Sans Condensed';
+}
+.blockimg{
+    position: absolute; 
+}
+.imgtext{
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    top: 30px;
+    left: 40px;
+    font-family: 'Sofia Sans Condensed';
+}
+.block{
+    background: white;
+    width: 360px;
+    height: 350px;
+}
+.blocktext{
+    color: #A6ADB4;
+    font-size: 16px;
+    margin-top: 245px;
+    margin-left: 40px;
+    width: 280px;
+    z-index: 20;
+    font-family: 'Sofia Sans Condensed';
+}
+.timeimg{
+    margin-top: 10px;
+    margin-left: 40px;
+}
+.body{
+    background: #F6F8F9;
+    font-family: 'Helvetica';
+}
+.photos{
+    width: 1160px;
+    margin: 0 auto;
+    margin-top: 60px;
+    margin-bottom: 100px;
+}
+.bottombox-txt{
+    color: #202124;
+    font-family: 'Sofia Sans Condensed';
+    font-size: 24px;
+}
+.photos1{
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    width: 1160px;
+    margin-top: 40px;
+}
+.photos2{
+    width: 760;
+}
+.phototext{
+    position: relative;   
+}
+.photos3{
+    margin-top: 40px;
+}
+.photos4{
+    width: 360px;      
+}
+.photos5{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}

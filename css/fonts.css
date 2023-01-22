@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Sofia Sans Condensed';
+    src: url('../fonts/SofiaSansCondensed-Bold.eot');
+    src: url('../fonts/SofiaSansCondensed-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/SofiaSansCondensed-Bold.woff2') format('woff2'),
+        url('../fonts/SofiaSansCondensed-Bold.woff') format('woff'),
+        url('../fonts/SofiaSansCondensed-Bold.ttf') format('truetype'),
+        url('../fonts/SofiaSansCondensed-Bold.svg#SofiaSansCondensed-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
